@@ -22,7 +22,7 @@ elif options == "Add Book":
 
 # View Books
 elif options == "View Books":
-    st.header("Books in Your Library")
+    st.header("Books in Your Selfbrary")
     st.write("(This feature will show a list of books added to your library. It will be implemented in future versions.)")
 
 # Run the app with: streamlit run app.py
